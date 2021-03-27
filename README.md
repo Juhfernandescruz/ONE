@@ -1,2 +1,2 @@
 
- Curso de HTML CSS JavaScrip e Java
+ Curso de HTML CSS JavaScript e JAVA
